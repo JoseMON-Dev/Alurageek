@@ -1,5 +1,5 @@
 .imgst1{
-    background-image: url(/img/asco_truper.png);
+    background-image: url(asco_truper.png);
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -7,7 +7,7 @@
 }
 
 .imgst2{
-    background-image: url(/img/figura_truper.png);
+    background-image: url(figura_truper.png);
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -15,7 +15,7 @@
 }
 
 .imgst3{
-    background-image: url(/img/yoda.png);
+    background-image: url(yoda.png);
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -23,7 +23,7 @@
 }
 
 .imgst4{
-    background-image: url(/img/truper.png);
+    background-image: url(truper.png);
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -31,7 +31,7 @@
 }
 
 .imgc1{
-    background-image: url(/img/mando.png);
+    background-image: url(mando.png);
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -39,7 +39,7 @@
 }
 
 .imgc2{
-    background-image: url(/img/ps5.png);
+    background-image: url(ps5.png);
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -47,7 +47,7 @@
 }
 
 .imgc3{
-    background-image: url(/img/consola_antigua.png);
+    background-image: url(consola_antigua.png);
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -55,7 +55,7 @@
 }
 
 .imgc4{
-    background-image: url(/img/swicht.png);
+    background-image: url(swicht.png);
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -63,14 +63,14 @@
 }
 
 .imgd1{
-    background-image: url(/img/camisa_japones.png);
+    background-image: url(camisa_japones.png);
     width: 100%;
     height: 174px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .imgd2{
-    background-image: url(/img/camisa_nintendo.png);
+    background-image: url(camisa_nintendo.png);
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -78,14 +78,14 @@
 }
 
 .imgd3{
-    background-image: url(/img/sinic.png);
+    background-image: url(sinic.png);
     width: 100%;
     height: 174px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .imgd4{
-    background-image: url(/img/consola.png);
+    background-image: url(consola.png);
     width: 100%;
     height: 174px;
     background-size: cover;

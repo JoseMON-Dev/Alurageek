@@ -38,7 +38,7 @@ a{
 }
 
 .principal{
-    background-image: url(/img/banner.PNG);
+    background-image: url(banner.PNG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
