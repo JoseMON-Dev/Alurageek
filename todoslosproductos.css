@@ -1,8 +1,26 @@
 .todoslosproductos{
     background-color: #f5f5f5 ;
+    padding-left: 0.5rem;
 }
 .products{
     margin-bottom: 0;
+}
+
+.imgp{
+    position: relative;
+}
+
+.fa-pencil{
+    color: white;
+    position: absolute;
+    right: 25px;
+    top: 11px;
+}
+.fa-trash{
+    color: white;
+    position: absolute;
+    right: 55px;
+    top: 11px;
 }
 .productos{
     display: grid;
