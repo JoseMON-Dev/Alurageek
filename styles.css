@@ -119,17 +119,24 @@ a{
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
+    margin: 4px;
+    margin-left: 0;
 }
 
 .price{
+    color: #464646;
     font-weight: 700;
     font-size: 16px;
     line-height: 19px;
+    margin: 4px;
+    margin-left: 0;
 }
 
 .verproducto{
     color: #2A7AE4;
     font-weight: 700;
     line-height: 16px;
+    margin: 4px;
+    margin-left: 0;
 }
 
