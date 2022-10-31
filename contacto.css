@@ -1,3 +1,24 @@
+a{
+    color: black;
+}
+
+.alurageekcontacto{
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: #464646;
+}
+.alurageek{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: #464646;
+}
+.logoalurageek{
+    display: flex;
+    align-items: center;
+    
+}
+
 .headercontacto{
     display: flex;
     justify-content: space-between;
@@ -44,7 +65,10 @@
     -moz-box-shadow: 0px 1px 2px 0px #C8C8C8;
     box-shadow: 0px 1px 2px 0px #C8C8C8;
 }
+.formulario1{
+    padding: 4.6rem 2.5rem;
 
+}
 .btnEnviar{
     width: 109px;
     padding: 12px 34px;
@@ -158,4 +182,8 @@
     font-family: 'Raleway', sans-serif;
     border-style: solid;
     border-width: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
 }
