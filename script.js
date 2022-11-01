@@ -6,6 +6,6 @@ function submit(event){
     event.preventDefault()
     const form = new FormData(this)
     console.log(form.get("Nombre"))
-    btnmail.setAttribute("href",`mailto:montesotero8@gmail.com?subject=${form.get("Nombre")}${form.get("mensaje")}&body=`)
+    btnmail.setAttribute("href",`mailto:montesotero8@gmail.com?subject=${form.get("Nombre")}&body=${form.get("mensaje")}`)
     btnmail.click()
 }
