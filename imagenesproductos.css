@@ -91,3 +91,98 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+
+@media (min-width: 900px) {
+    .imgst1{
+        width: 176px;
+        height: 174px;
+    }
+
+    .imgst2{
+        width: 176px;
+        height: 174px;
+    }
+    .imgst3{
+        width: 176px;
+        height: 174px;
+    }
+    .imgst4{
+        width: 176px;
+        height: 174px;
+    }
+    .imgst5{
+        background-image: url(babyyoda.png);
+        width: 176px;
+        height: 174px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .imgst6{
+        background-image: url(trajenegro.png);
+        width: 176px;
+        height: 174px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .imgc1{
+        width: 176px;
+        height: 174px;
+    }
+    .imgc2{
+        width: 176px;
+        height: 174px;
+    }
+    .imgc3{
+        width: 176px;
+        height: 174px;
+    }
+    .imgc4{
+        width: 176px;
+        height: 174px;
+    }
+    .imgsc5{
+        background-image: url(exboxseriesx.png);
+        width: 176px;
+        height: 174px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .imgsc6{
+        background-image: url(consolademano.png);
+        width: 176px;
+        height: 174px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .imgd1{
+        width: 176px;
+        height: 174px;
+    }
+    .imgd2{width: 176px;
+        height: 174px;
+    }
+
+    .imgd3{
+        width: 176px;
+        height: 174px;
+    }
+    .imgd4{
+        width: 176px;
+        height: 174px;
+    }
+    .imgsd5{
+        background-image: url(camisahamburgesa.png);
+        width: 176px;
+        height: 174px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .imgsd6{
+        background-image: url(pikacho.png);
+        width: 176px;
+        height: 174px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}

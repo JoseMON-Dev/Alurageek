@@ -5,6 +5,7 @@
     }
     .products{
         margin-bottom: 0;
+        gap: 1rem;
     }
     
     .product{
