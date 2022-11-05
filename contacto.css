@@ -2,189 +2,192 @@ a{
     color: black;
 }
 
-.alurageekcontacto{
-    font-size: 18px;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-    color: #464646;
-}
-.alurageek{
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-    color: #464646;
-}
-.logoalurageek{
-    display: flex;
-    align-items: center;
+
+    .alurageekcontacto{
+        font-size: 18px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        color: #464646;
+    }
+    .alurageek{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        color: #464646;
+    }
+    .logoalurageek{
+        display: flex;
+        align-items: center;
+        
+    }
     
-}
-
-.headercontacto{
-    display: flex;
-    justify-content: space-between;
-    margin: 1rem;
+    .headercontacto{
+        display: flex;
+        justify-content: space-between;
+        margin: 1rem;
+        
+    }
     
-}
-
-.formulario1{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: #f5f5f5;
-}
-.tittle{
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 19px;
-    margin-bottom: 1rem;
-    color: #464646;
-}
-
-.inputemail{
-    width: 275px;
-    margin-bottom: 1rem;
-    width: 328px;
-    height: 56px;
-    position: relative;
-    border-style: none;
-    border-radius: 2px;
-    -webkit-box-shadow: 0px 1px 2px 0px #C8C8C8;
-    -moz-box-shadow: 0px 1px 2px 0px #C8C8C8;
-    box-shadow: 0px 1px 2px 0px #C8C8C8;
-}
-
-.inputemailpass{
-    width: 275px;
-    margin-bottom: 1rem;
-    width: 328px;
-    height: 56px;
-    position: relative;
-    border-style: none;
-    border-radius: 2px;
-    -webkit-box-shadow: 0px 1px 2px 0px #C8C8C8;
-    -moz-box-shadow: 0px 1px 2px 0px #C8C8C8;
-    box-shadow: 0px 1px 2px 0px #C8C8C8;
-}
-.formulario1{
-    padding: 4.6rem 2.5rem;
-
-}
-.btnEnviar{
-    width: 109px;
-    padding: 12px 34px;
-    color: white;  
-    background-color: #2A7AE4;
-    border-style: solid;
-    border-width: 0;
-    font-family: 'Raleway', sans-serif;
-    font-size: 14px;
-    line-height: 16px;
-    font-weight: 600;
-}
-
-.titulotiendacontacto{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 18px;
-    margin-bottom: 1rem;
-    padding-top: 1.7rem;
-}
-
-.contacto{
-    background-color: #EAF2FD;
-    font-family: 'Raleway', sans-serif
-}
-
-.logocontacto{
-    width: 40px;
-    height: 29px;
-}
-
-.aluracontacto{
-    font-size: 18px;
-    color:#2A7AE4;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
+    .formulario1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #f5f5f5;
+    }
+    .tittle{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19px;
+        margin-bottom: 1rem;
+        color: #464646;
+    }
     
-}
-
-.lista{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-family: 'Raleway', sans-serif
-}
-
-.itemlist{
-    margin-bottom: 1rem;
-    text-decoration: none;
-    color: #464646;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 19px;
-}
-
-.formulario{
-    display: flex;
-    flex-direction: column;
-    margin: 1rem;
-    margin-top: 0.4rem;
-}
-
-.tituloForm{
-    margin-bottom: 0.5rem;
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 19px;
-    color: #464646;
-}
-
-.nombre{
-    margin-bottom: 1rem;
-    width: 328px;
-    height: 56px;
-    position: relative;
-    border-style: none;
-    border-radius: 2px;
-    -webkit-box-shadow: 0px 1px 2px 0px #C8C8C8;
-    -moz-box-shadow: 0px 1px 2px 0px #C8C8C8;
-    box-shadow: 0px 1px 2px 0px #C8C8C8;
-}
-
-.mensaje{
-    width: 328px;
-    height: 82px;
-    position: relative;
-    border-style: none;
-    -webkit-box-shadow: 0px 1px 2px 0px #C8C8C8;
-    -moz-box-shadow: 0px 1px 2px 0px #C8C8C8;
-    box-shadow: 0px 1px 2px 0px #C8C8C8;
-}
-
-::placeholder{
-    font-family: 'Raleway', sans-serif;
-    font-size: 16px;
-    line-height: 20px;
-    font-weight: 500;
-    position: absolute;
-    top: 1rem;
-    left: 1rem;
-}
-
-.formBoton{
-    margin-top: 0.5rem;
-    width: 133px;
-    height: 40px;
-    margin-bottom: 1rem;
-    color: white;
-    background-color: #2A7AE4;
-    font-family: 'Raleway', sans-serif;
-    border-style: solid;
-    border-width: 0;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 19px;
-}
+    .inputemail{
+        width: 275px;
+        margin-bottom: 1rem;
+        width: 328px;
+        height: 56px;
+        position: relative;
+        border-style: none;
+        border-radius: 2px;
+        -webkit-box-shadow: 0px 1px 2px 0px #C8C8C8;
+        -moz-box-shadow: 0px 1px 2px 0px #C8C8C8;
+        box-shadow: 0px 1px 2px 0px #C8C8C8;
+    }
+    
+    .inputemailpass{
+        width: 275px;
+        margin-bottom: 1rem;
+        width: 328px;
+        height: 56px;
+        position: relative;
+        border-style: none;
+        border-radius: 2px;
+        -webkit-box-shadow: 0px 1px 2px 0px #C8C8C8;
+        -moz-box-shadow: 0px 1px 2px 0px #C8C8C8;
+        box-shadow: 0px 1px 2px 0px #C8C8C8;
+    }
+    .formulario1{
+        padding: 4.6rem 2.5rem;
+    
+    }
+    .btnEnviar{
+        width: 109px;
+        padding: 12px 34px;
+        color: white;  
+        background-color: #2A7AE4;
+        border-style: solid;
+        border-width: 0;
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        line-height: 16px;
+        font-weight: 600;
+    }
+    
+    .titulotiendacontacto{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 18px;
+        margin-bottom: 1rem;
+        padding-top: 1.7rem;
+    }
+    
+    .contacto{
+        background-color: #EAF2FD;
+        font-family: 'Raleway', sans-serif
+    }
+    
+    .logocontacto{
+        width: 40px;
+        height: 29px;
+    }
+    
+    .aluracontacto{
+        font-size: 18px;
+        color:#2A7AE4;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        
+    }
+    
+    .lista{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-family: 'Raleway', sans-serif
+    }
+    
+    .itemlist{
+        margin-bottom: 1rem;
+        text-decoration: none;
+        color: #464646;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 19px;
+    }
+    
+    .formulario{
+        display: flex;
+        flex-direction: column;
+        margin: 1rem;
+        margin-top: 0.4rem;
+    }
+    
+    .tituloForm{
+        margin-bottom: 0.5rem;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19px;
+        color: #464646;
+    }
+    
+    .nombre{
+        margin-bottom: 1rem;
+        width: 328px;
+        height: 56px;
+        position: relative;
+        border-style: none;
+        border-radius: 2px;
+        -webkit-box-shadow: 0px 1px 2px 0px #C8C8C8;
+        -moz-box-shadow: 0px 1px 2px 0px #C8C8C8;
+        box-shadow: 0px 1px 2px 0px #C8C8C8;
+    }
+    
+    .mensaje{
+        width: 328px;
+        height: 82px;
+        position: relative;
+        border-style: none;
+        -webkit-box-shadow: 0px 1px 2px 0px #C8C8C8;
+        -moz-box-shadow: 0px 1px 2px 0px #C8C8C8;
+        box-shadow: 0px 1px 2px 0px #C8C8C8;
+    }
+    
+    ::placeholder{
+        font-family: 'Raleway', sans-serif;
+        font-size: 16px;
+        line-height: 20px;
+        font-weight: 500;
+        position: absolute;
+        top: 1rem;
+        left: 1rem;  
+        color: #A2A2A2;;
+    }
+    
+    .formBoton{
+        margin-top: 0.5rem;
+        width: 133px;
+        height: 40px;
+        margin-bottom: 1rem;
+        color: white;
+        background-color: #2A7AE4;
+        font-family: 'Raleway', sans-serif;
+        border-style: solid;
+        border-width: 0;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+       
+    }
