@@ -10,7 +10,6 @@ function submit(event){
     btnmail.click()
 }
 
-
 const lupa = document.querySelector("#logo_lupa_1");
 const cabezara = document.querySelector("#cabezera")
 lupa.addEventListener("click", onclick)

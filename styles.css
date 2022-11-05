@@ -5,7 +5,12 @@ a{
     text-decoration: initial;
 }
 
-
+#menu_buscar{
+    display: none;
+}
+#cabezera{
+    display: flex;
+}
 
 .busqueda{
     height: 40px;
@@ -32,7 +37,6 @@ a{
 .menu_buscar{
     position: relative;
     margin: 0 auto;
-    display: none;
     padding: 1rem;
 }
 
@@ -58,7 +62,6 @@ a{
     }
     .cabezara{
         width: 100%;
-        display: flex;
         justify-content: space-between;
         align-items: center;
         
