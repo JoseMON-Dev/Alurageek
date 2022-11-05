@@ -90,7 +90,11 @@ a{
     font-size: 16px;
     line-height: 16px;
 }
-    
+  
+.btnLogin:hover{
+    cursor: pointer;
+}
+
 .principal{
      background-image: url(banner.PNG);
     background-size: cover;
@@ -103,8 +107,7 @@ a{
     
 .banner{
     color: white;
-    margin-top: 5rem;
-        
+    margin-top: 5rem;      
 }
     
 .titulo{
@@ -193,10 +196,47 @@ flex-direction: column;
     margin-left: 0;
 }
 
+@media (min-width: 800px) {
+    .principal{
+        height: 352px;
+        padding-left: 10%;
+    }
+    .banner{
+        margin-top: calc( 340px - 92px);
+    }
+    .header{
+        display: none;
+    }
+    .header_escritorio{
+        display: flex;
+        justify-content: space-between;
+        padding: 2rem;
+        align-items: center;
+    }
+
+    .formulario_header{
+        position: relative;
+    }
+
+    .barra_buscar_logo_lupa{
+        position: absolute;
+        top: 12px;
+        right: 20px;
+        color: #A2A2A2;
+    }
+
+    .barra_buscar_logo_lupa:hover{
+        cursor: pointer;
+    }
+
+    .barra_buscar{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 16px;
+    }
+    
 
 @media  (min-width: 500px) {
     
-}
-@media (min-width: 800px) {
-
 }
