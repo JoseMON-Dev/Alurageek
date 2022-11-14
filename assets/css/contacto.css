@@ -191,3 +191,58 @@ a{
         line-height: 19px;
        
     }
+
+    @media (min-width: 700px) {
+        .buscar{
+           display: none;
+        }
+        .headercontacto{
+            display: none;
+        }
+        .alura{
+            font-weight: 900;
+            font-size: 23px;
+            line-height: 20px;
+        }
+        .logo{
+            width: 40px;
+            height: 29px;
+        }
+        .logoalurageek{
+            margin-right: 32px;
+        }
+        .headercontactoescritorio{
+            padding: 37px 156px;
+            padding-right: 0;
+            display: flex;
+            justify-content: flex-start;
+        }
+        .contacto{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding:64px 0; 
+        }
+        .lista{
+            margin: 0 112px;  
+            align-items: initial; 
+        }
+        .titulotiendacontacto{
+            align-self: flex-start;
+        }
+        .nombre{
+            width: 560px;
+        }
+        .mensaje{
+            width: 560px;
+        }
+        .btnEnviar{
+            width: 423px;
+        }
+        .inputemailpass{
+            width: 423px;
+        }
+        .inputemail{
+            width: 423px;
+        }
+    }

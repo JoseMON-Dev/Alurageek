@@ -70,3 +70,27 @@
         line-height: 16px;
     }
 
+    @media (min-width: 700px) {
+        .products{
+            display: flex;
+            grid-template-columns: none;
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: initial;
+        }
+        .header_todos_los_Productos{
+            display: flex;
+            width: 98.5%;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .todoslosproductos{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .product{
+            height: 200px;
+        }
+    }
