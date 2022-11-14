@@ -100,7 +100,7 @@ a{
 }
 
 .principal{
-     background-image: url(/assets/img/banner.PNG);
+     background-image: url(../img/banner.PNG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
