@@ -213,7 +213,9 @@ flex-direction: column;
      margin: 4px;
     margin-left: 0;
 }
-
+button:hover{
+    cursor: pointer;
+}
 @media (min-width: 700px) {
     .principal{
         width: 100%;
