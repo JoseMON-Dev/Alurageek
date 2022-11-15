@@ -191,6 +191,9 @@ a{
         line-height: 19px;
        
     }
+    .headerdescktopaddproduct{
+        display: none;
+    }
 
     @media (min-width: 700px) {
         .buscar{

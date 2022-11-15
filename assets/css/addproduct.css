@@ -9,7 +9,7 @@
     padding-right: 0.7rem;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 10px;
     line-height: 16px;
 }
 .proidad_del_producto{
@@ -64,7 +64,18 @@
     
 }
 
-.btn_admin{
-    padding: 1rem;
-    margin-left:10% ;
+.btn_admin:hover{
+    cursor:pointer;
+}
+
+
+@media (min-width: 700px) {
+    .header_addproduct{
+        display: none;
+    }
+    .btn_admin{
+        padding: 1rem;
+        font-size: 14px;
+        margin-left:10%;
+    }
 }
