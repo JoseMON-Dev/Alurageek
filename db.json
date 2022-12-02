@@ -67,19 +67,19 @@
         {
             "id" : "6",
             "name": "consolaXYZ",
-            "imgurl": "../public/assets/img/trajenegro.png"
+            "imgurl": "./assets/img/trajenegro.png"
         }
     ],
     "diversosindex":[
         {
             "id" : "1",
             "name": "consolaXYZ",
-            "imgurl": "../public/assets/img/camisa_japones.png"
+            "imgurl": "./assets/img/camisa_japones.png"
         },
         {
             "id" : "2",
             "name": "consolaXYZ",
-            "imgurl": "../public/assets/img/camisa_nintendo.png"
+            "imgurl": "./assets/img/camisa_nintendo.png"
         },{
             "id" : "3",
             "name": "consolaXYZ",
