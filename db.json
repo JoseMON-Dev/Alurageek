@@ -4,37 +4,37 @@
             "id" : "1",
             "name": "madoxbox",
             "precio":"R$ 60,00",
-            "imgurl": "../public/assets/img/mando.png"
+            "imgurl": "./public/assets/img/mando.png"
         },
         {
             "id" : "2",
             "name": "madoxbox",
             "precio":"R$ 60,00",
-            "imgurl": "../public/assets/img/ps5.png"
+            "imgurl": "./public/assets/img/ps5.png"
         },
         {
             "id" : "3",
             "name": "madoxbox",
             "precio":"R$ 60,00",
-            "imgurl": "../public/assets/img/consola_antigua.png"
+            "imgurl": "./public/assets/img/consola_antigua.png"
         },
         {
             "id" : "4",
             "name": "madoxbox",
             "precio":"R$ 60,00",
-            "imgurl": "../public/assets/img/swicht.png"
+            "imgurl": "./public/assets/img/swicht.png"
         },
         {
             "id" : "5",
             "name": "madoxbox",
             "precio":"R$ 60,00",
-            "imgurl": "../public/assets/img/exboxseriesx.png"
+            "imgurl": "./public/assets/img/exboxseriesx.png"
         },
         {
             "id" : "6",
             "name": "madoxbox",
             "precio":"R$ 60,00",
-            "imgurl": "../public/assets/img/consolademano.png"
+            "imgurl": "./public/assets/img/consolademano.png"
         }
     ],
     
