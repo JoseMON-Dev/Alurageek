@@ -1,4 +1,4 @@
-const severurl = "https://alurageek.onrender.com"
+const severurl = "http://localhost:3000"
 
 
 export const serverconsolasindex= () => {

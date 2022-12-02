@@ -4,37 +4,37 @@
             "id" : "1",
             "name": "madoxbox",
             "precio":"R$ 60,00",
-            "imgurl": "./public/assets/img/mando.png"
+            "imgurl": "../public/assets/img/mando.png"
         },
         {
             "id" : "2",
             "name": "madoxbox",
             "precio":"R$ 60,00",
-            "imgurl": "./public/assets/img/ps5.png"
+            "imgurl": "../public/assets/img/ps5.png"
         },
         {
             "id" : "3",
             "name": "madoxbox",
             "precio":"R$ 60,00",
-            "imgurl": "./public/assets/img/consola_antigua.png"
+            "imgurl": "../public/assets/img/consola_antigua.png"
         },
         {
             "id" : "4",
             "name": "madoxbox",
             "precio":"R$ 60,00",
-            "imgurl": "./public/assets/img/swicht.png"
+            "imgurl": "../public/assets/img/swicht.png"
         },
         {
             "id" : "5",
             "name": "madoxbox",
             "precio":"R$ 60,00",
-            "imgurl": "./public/assets/img/exboxseriesx.png"
+            "imgurl": "../public/assets/img/exboxseriesx.png"
         },
         {
             "id" : "6",
             "name": "madoxbox",
             "precio":"R$ 60,00",
-            "imgurl": "./public/assets/img/consolademano.png"
+            "imgurl": "../public/assets/img/consolademano.png"
         }
     ],
     
@@ -42,63 +42,63 @@
         {
             "id" : "1",
             "name": "consolaXYZ",
-            "imgurl": "./public/assets/img/asco_truper.png"
+            "imgurl": "../public/assets/img/asco_truper.png"
         },
         {
             "id" : "2",
             "name": "consolaXYZ",
-            "imgurl": "./public/assets/img/figura_truper.png"
+            "imgurl": "../public/assets/img/figura_truper.png"
         },
         {
             "id" : "3",
             "name": "consolaXYZ",
-            "imgurl": "./public/assets/img/yoda.png"
+            "imgurl": "../public/assets/img/yoda.png"
         },
         {
             "id" : "4",
             "name": "consolaXYZ",
-            "imgurl": "./public/assets/img/truper.png"
+            "imgurl": "../public/assets/img/truper.png"
         },
         {
             "id" : "5",
             "name": "consolaXYZ",
-            "imgurl": "./public/assets/img/babyyoda.png"
+            "imgurl": "../public/assets/img/babyyoda.png"
         },
         {
             "id" : "6",
             "name": "consolaXYZ",
-            "imgurl": "./public/assets/img/trajenegro.png"
+            "imgurl": "../public/assets/img/trajenegro.png"
         }
     ],
     "diversosindex":[
         {
             "id" : "1",
             "name": "consolaXYZ",
-            "imgurl": "./public/assets/img/camisa_japones.png"
+            "imgurl": "../public/assets/img/camisa_japones.png"
         },
         {
             "id" : "2",
             "name": "consolaXYZ",
-            "imgurl": "./public/assets/img/camisa_nintendo.png"
+            "imgurl": "../public/assets/img/camisa_nintendo.png"
         },{
             "id" : "3",
             "name": "consolaXYZ",
-            "imgurl": "./public/assets/img/sinic.png"
+            "imgurl": "../public/assets/img/sinic.png"
         }
         ,{
             "id" : "4",
             "name": "consolaXYZ",
-            "imgurl": "./public/assets/img/consola.png"
+            "imgurl": "../public/assets/img/consola.png"
         }
         ,{
             "id" : "5",
             "name": "consolaXYZ",
-            "imgurl": "./public/assets/img/camisahamburgesa.png"
+            "imgurl": "../public/assets/img/camisahamburgesa.png"
         }
         ,{
             "id" : "6",
             "name": "consolaXYZ",
-            "imgurl": "./public/assets/img/pikacho.png"
+            "imgurl": "../public/assets/img/pikacho.png"
         }
     ]
 }
