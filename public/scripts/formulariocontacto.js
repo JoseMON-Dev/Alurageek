@@ -3,6 +3,7 @@ const btnmail = document.querySelector("#truco")
 formulario.addEventListener("submit", submit)
 
 function submit(event){
+    
     event.preventDefault()
     const form = new FormData(this)
     console.log(form.get("Nombre"))
@@ -19,7 +20,7 @@ arrowheader.addEventListener("click",remove)
 
 function onclick(event){
     cabezara.style.display= 'none' ;
-    menu_buscar.style.display='initial';
+    menu_buscar.style.display='initial'; 
 }
 
 function remove(event){

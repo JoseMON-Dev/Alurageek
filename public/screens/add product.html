@@ -51,9 +51,9 @@
         <div class="lista"><a class="itemlist" href="">Quienes somos</a><a class="itemlist" href="">Política de privacidad</a><a class="itemlist" href="">Programa de fidelidad</a><a class="itemlist" href="">Nuestras tiendas</a><a class="itemlist" href="">Quiero ser franquiciado</a><a class="itemlist" href="">Anúncie aquí</a></div>
         <form class="formulario" id="form">
             <h1 class="tituloForm">Hable con nosotros</h1>
-            <input class="nombre" type="text" name="Nombre" placeholder="Nombre" id="name">
-            <input class="mensaje" type="text" name="mensaje" placeholder="Escribe tu mensaje" id="mensaje">
-            <button class="formBoton">Enviar mensaje</button>
+            <input class="nombre" type="text" name="Nombre" placeholder="Nombre" id="name" required maxlength="40">
+            <input class="mensaje" type="text" name="mensaje" placeholder="Escribe tu mensaje" id="mensaje" required maxlength="120">
+            <button class="formBoton" type="submit">Enviar mensaje</button>
         </form>
         <a id="truco"></a>
     </section>
@@ -61,9 +61,6 @@
         <h1 class="titulofooter">Desarrollado por Jose Jorge Montes Otero<br>
             2022</h1>
     </footer>
-    <script src="../scripts/script.js"></script>
-     
-
-     
+    <script src="../scripts/formulariocontacto.js"></script>
 </body>
 </html>

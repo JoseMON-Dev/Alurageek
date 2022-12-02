@@ -1,37 +1,39 @@
-.imgst1{
-    background-image: url(../img/asco_truper.png);
+.imgt1{
+    /* background-image: url(../img/asco_truper.png); */
     width: 100%;
     height: 174px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-.imgst2{
-    background-image: url(../img/figura_truper.png);
+.imgt2{
+    /* background-image: url(../img/figura_truper.png); */
     width: 100%;
     height: 174px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-.imgst3{
-    background-image: url(../img/yoda.png);
+.imgt3{
+    /* background-image: url(../img/yoda.png); */
     width: 100%;
     height: 174px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-.imgst4{
-    background-image: url(../img/truper.png);
+.imgt4{
+    /* background-image: url(../img/truper.png); */
     width: 100%;
     height: 174px;
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+
 
 .imgc1{
-    background-image: url(../img/mando.png);
+    /* background-image: url(../img/mando.png); */
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -39,7 +41,7 @@
 }
 
 .imgc2{
-    background-image: url(../img/ps5.png);
+    /* background-image: url(../img/ps5.png); */
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -47,7 +49,7 @@
 }
 
 .imgc3{
-    background-image: url(../img/consola_antigua.png);
+    /* background-image: url(../img/consola_antigua.png); */
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -55,22 +57,23 @@
 }
 
 .imgc4{
-    background-image: url(../img/swicht.png);
+    /* background-image: url(../img/swicht.png); */
     width: 100%;
     height: 174px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
+
 .imgd1{
-    background-image: url(../img/camisa_japones.png);
+    /*background-image: url(../img/camisa_japones.png);*/
     width: 100%;
     height: 174px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .imgd2{
-    background-image: url(../img/camisa_nintendo.png);
+    /* background-image: url(../img/camisa_nintendo.png); */
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -78,14 +81,14 @@
 }
 
 .imgd3{
-    background-image: url(../img/sinic.png);
+    /* background-image: url(../img/sinic.png); */
     width: 100%;
     height: 174px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .imgd4{
-    background-image: url(../img/consola.png);
+    /* background-image: url(../img/consola.png); */
     width: 100%;
     height: 174px;
     background-size: cover;
@@ -93,33 +96,34 @@
 }
 
 
+
 @media (min-width: 900px) {
-    .imgst1{
+    .imgt1{
         width: 176px;
         height: 174px;
     }
 
-    .imgst2{
+    .imgt2{
         width: 176px;
         height: 174px;
     }
-    .imgst3{
+    .imgt3{
         width: 176px;
         height: 174px;
     }
-    .imgst4{
+    .imgt4{
         width: 176px;
         height: 174px;
     }
-    .imgst5{
-        background-image: url(../img/babyyoda.png);
+    .imgt5{
+        /* background-image: url(../img/babyyoda.png); */
         width: 176px;
         height: 174px;
         background-size: cover;
         background-repeat: no-repeat;
     }
-    .imgst6{
-        background-image: url(../img/trajenegro.png);
+    .imgt6{
+        /* background-image: url(../img/trajenegro.png); */
         width: 176px;
         height: 174px;
         background-size: cover;
@@ -141,15 +145,15 @@
         width: 176px;
         height: 174px;
     }
-    .imgsc5{
-        background-image: url(../img/exboxseriesx.png);
+    .imgc5{
+        /* background-image: url(../img/exboxseriesx.png); */
         width: 176px;
         height: 174px;
         background-size: cover;
         background-repeat: no-repeat;
     }
-    .imgsc6{
-        background-image: url(../img/consolademano.png);
+    .imgc6{
+        /* background-image: url(../img/consolademano.png); */
         width: 176px;
         height: 174px;
         background-size: cover;
@@ -171,15 +175,15 @@
         width: 176px;
         height: 174px;
     }
-    .imgsd5{
-        background-image: url(../img/camisahamburgesa.png);
+    .imgd5{
+        /* background-image: url(../img/camisahamburgesa.png); */
         width: 176px;
         height: 174px;
         background-size: cover;
         background-repeat: no-repeat;
     }
-    .imgsd6{
-        background-image: url(../img/pikacho.png);
+    .imgd6{
+        /* background-image: url(../img/pikacho.png); */
         width: 176px;
         height: 174px;
         background-size: cover;

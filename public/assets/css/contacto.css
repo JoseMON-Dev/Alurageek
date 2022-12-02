@@ -44,7 +44,6 @@ a{
     
     .inputemail{
         width: 275px;
-        margin-bottom: 1rem;
         width: 328px;
         height: 56px;
         position: relative;
@@ -57,7 +56,6 @@ a{
     
     .inputemailpass{
         width: 275px;
-        margin-bottom: 1rem;
         width: 328px;
         height: 56px;
         position: relative;
@@ -67,6 +65,11 @@ a{
         -moz-box-shadow: 0px 1px 2px 0px #C8C8C8;
         box-shadow: 0px 1px 2px 0px #C8C8C8;
     }
+
+    .inputerror{
+        border: 2px solid #d26963e3;
+    }
+
     .formulario1{
         padding: 4.6rem 2.5rem;
     
@@ -155,8 +158,22 @@ a{
         -webkit-box-shadow: 0px 1px 2px 0px #C8C8C8;
         -moz-box-shadow: 0px 1px 2px 0px #C8C8C8;
         box-shadow: 0px 1px 2px 0px #C8C8C8;
+        outline: none;
     }
     
+    .nombre:focus{
+        -webkit-box-shadow: 0px 6px 8px 0px #C8C8C8;
+        -moz-box-shadow: 0px 6px 8px 0px #C8C8C8;
+        box-shadow: 0px 6px 8px 0px #C8C8C8;
+    }
+
+    .mensaje:focus{
+        -webkit-box-shadow: 0px 6px 8px 0px #C8C8C8;
+        -moz-box-shadow: 0px 6px 8px 0px #C8C8C8;
+        box-shadow: 0px 6px 8px 0px #C8C8C8;
+        outline: none;
+    }
+
     .mensaje{
         width: 328px;
         height: 82px;
@@ -194,6 +211,11 @@ a{
         line-height: 19px;
        
     }
+    
+    .error_ms{
+        color: #d26963e3;
+    }
+
     .headerdescktopaddproduct{
         display: none;
     }
