@@ -1,7 +1,8 @@
-const severurl = "http://localhost:3000"
+const severurl = "https://alurageek.onrender.com"
 
 
 export const serverconsolasindex= () => {
+    console.log(severurl)
     return fetch(severurl + "/consolasindex").then((respuesta) => { 
         return respuesta.json();
     })
